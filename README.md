@@ -10,17 +10,11 @@
 
 
 Login Credentials
-
 User
-
 Email: lowel@lowel.com
-
 Password: lowel
-
 Admin
-
 admin@admin.com
-
 admin
 
 
