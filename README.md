@@ -9,14 +9,6 @@
 5. Run the app by `http://localhost/prince_beebooking/index.php#`.
  
 
-
-**Run PHP code beautifier and fixer**
-```
-$ ./vendor/bin/phpcbf app/process_login.php --standard=ruleset.xml
-```
-```
-$ ./vendor/bin/phpcbf app/*/*.php --standard=ruleset.xml
-```
 **Run ESLint to format/fix JavaScript code**
 ```
 npm run eslint
