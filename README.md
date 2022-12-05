@@ -9,14 +9,18 @@
 5. Run the app by `http://localhost/prince_beebooking/index.php#`.
 
 
-Login Credentials
-User
+## Login Credentials
+
+**User**
+```
 Email: lowel@lowel.com
 Password: lowel
-Admin
+```
+**Admin**
+```
 admin@admin.com
 admin
-
+```
 
 **Run ESLint to format/fix JavaScript code**
 ```
