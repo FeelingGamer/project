@@ -228,7 +228,7 @@ session_start();
                                     Book
                                 </button>
                                 <?php } ?>
-                                <small class="text-muted">$130 / night</small>
+                                <small class="text-muted">$130</small>
                             </div>
                         </div>
                     </div>
@@ -399,7 +399,7 @@ session_start();
                     </button>
                 </div>
                 <div class="modal-body">
-                    <h4>You have to <a href="sign-in.php">sign in</a> in order to reserve a room.</h4>
+                    <h4>You have to <a href="sign-in.php">sign in</a> in order to book a surprise.</h4>
                 </div>
             </div>
         </div>
