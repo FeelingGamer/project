@@ -7,16 +7,21 @@
 3. Install dependencies for JavaScript, `npm install` and PHP, `composer install`.
 4. Create a database named `princebee` and run the script `princebee.sql` to create tables. Make sure your configuration matches with `app/DB.php`, otherwise make the desired changes.
 5. Run the app by `http://localhost/prince_beebooking/index.php#`.
- 
 
 
-**Run PHP code beautifier and fixer**
+## Login Credentials
+
+**User**
 ```
-$ ./vendor/bin/phpcbf app/process_login.php --standard=ruleset.xml
+Email: lowel@lowel.com
+Password: lowel
 ```
+**Admin**
 ```
-$ ./vendor/bin/phpcbf app/*/*.php --standard=ruleset.xml
+admin@admin.com
+admin
 ```
+
 **Run ESLint to format/fix JavaScript code**
 ```
 npm run eslint
